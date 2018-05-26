@@ -1,4 +1,4 @@
-package io.github.encrypter;
+package io.github.lukasaslt.encrypter;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
